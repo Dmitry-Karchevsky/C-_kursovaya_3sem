@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\polynom.o
+./release\enter_pol.o
+./release\enter_konst.o
+./release\print_path.o
+./release\moc_mainwindow.o
+./release\moc_enter_pol.o
+./release\moc_enter_konst.o
+./release\moc_print_path.o
+);

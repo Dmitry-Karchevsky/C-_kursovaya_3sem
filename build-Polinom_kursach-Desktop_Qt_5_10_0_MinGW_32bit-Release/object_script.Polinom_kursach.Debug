@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\polynom.o
+./debug\enter_pol.o
+./debug\enter_konst.o
+./debug\print_path.o
+./debug\moc_mainwindow.o
+./debug\moc_enter_pol.o
+./debug\moc_enter_konst.o
+./debug\moc_print_path.o
+);
